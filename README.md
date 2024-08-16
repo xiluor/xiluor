@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**xiluor/xiluor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m a student in China 
 - 🌱 I’m currently learning python or something that a senior high school student should learning 🤔
