@@ -7,5 +7,5 @@
 - 🤔 maybe i will think about what should i can do  
 - 📫 How to reach me: my [twitter](https://x.com/isxiluor) 
 - 😄 Pronouns: 😂 
-- ⚡ Fun fact: may i should do my homework now 
+- ⚡ Fun fact: maybe i should do my homework now 
 -->
