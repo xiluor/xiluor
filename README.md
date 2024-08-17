@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 
 - 🔭 I’m a student in China 
@@ -30,3 +30,11 @@
 [![](https://img.shields.io/badge/telegram-ff66ab)](https://t.me/+aTnpjihCVlw1MmUx)
 [![](https://img.shields.io/badge/instagram-69899c)](https://www.instagram.com/xiluo0808/)
 </div>  
+- 🔭 I’m a student in China 
+- 🌱 I’m currently learning python or something that a senior high school student should learning 🤔
+- 👯 I’m looking to collaborate on chat or study (sure that is impossibl)
+- 🤔 maybe i will think about what should i can do  
+- 📫 How to reach me: i guess no one wanna reach me 
+- 😄 Pronouns: 😂 
+- ⚡ Fun fact: maybe i should do my homework now 
+-->
