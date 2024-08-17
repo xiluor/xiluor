@@ -9,4 +9,5 @@
 - 😄 Pronouns: 😂 
 - ⚡ Fun fact: maybe i should do my homework now 
 -->
-#![love](https://i.ibb.co/wgjn0Vk/20240806-162746.jpg)
+  #
+![love](https://i.ibb.co/wgjn0Vk/20240806-162746.jpg)
